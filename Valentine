@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <script>
+    alert("hi gais😃")
+    alert("aku ngerasa senang banget kenal kalian jadi temanku hehe")
+    alert("Tuhan tuh baik banget ngasih kalian jadi temanku")
+    alert("aku ga tau si kalian rasain hal yang sama ga sama aku,yang terpenting aku ngerasa nyaman berteman sama kalian,walau kadang aku juga suka minder,takut buat kalian ga nyaman sama sikap/sifatku yang nyenengin ini,banyak ngeluh,terkadang egois,dan cengeng.")
+    alert("makasih banyak ya,kalian selama ini dah mau respon aku,walaupun beberapa mungkin sibuk,tapi aku makasih kalian masih mau merespon")
+    alert("mungkin mamaku,abangku,adekku dah cape dengerin aku ceritain kalian tiap hari ke mereka,saking senangnya aku sama kalian")
+    alert("aku pengen ngomong panjang' tapi takutnya kalian kehabisa kesabaran bacanya kwwkwk")
+    alert("intinya makasih yah sudah lahir,sudah hadir jadi temanku,makasih atas semua perlakuan kalian")
+    alert("ga tau sih aku kita bertemananya sampai kapan atau gimana nantinya,tapi aku tetap mau jadi teman kalian sampai kapanpun,semangat ya kalian kuliahnya,ngejar cita-citanya,semangat ya banggain orangtuanya,semoga kita bisa sama-sama sukses oh iya ini nats untuk kalian Amsal 23:18 (TB)  Karena masa depan sungguh ada, dan harapanmu tidak akan hilang.)
+    alert("oh iya kalian kalau butuh pendengar,atau mau ngeluh datang aja ya samaku,aku siap kok jadi teman kalian cerita,aku mau dengerin cerita kalian,aku mau kalian ngeluh samaku,aku mau kalian bacod,cerita panjang lebar samaku,aku mau kalian anggap aku jadi teman kalian yang bisa kalian percaya,walau ya aku tau pasti tetap ada yang punya privasi dan aku hargai ituu,but yang aku bilang i'm here if you need me")
+    alert("love u ges,makasih sekali lagi")
+    alert("Amsal 17:17 (TB)  Seorang sahabat menaruh kasih setiap waktu, dan menjadi seorang saudara dalam kesukaran.")
+    alert("btw sorry ya kalo masih banyak kurangnya dan buat kaliah lelah bacanya,makasih gess yang sudah baca💝💝💝")
+  </script>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+  Hello world
+  <script src="script.js"></script>
+  <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge-v2.js" theme="dark" position="bottom-right"></script>
+</body>
+</html>
